@@ -81,8 +81,11 @@ SCREENSHOTS
 -----------
 
 
-![Workspace Gif](https://github.com/user-attachments/assets/e92683ea-2e38-4108-a7e9-cde18b33e0de)
-![Workspace + Board Gif](https://github.com/user-attachments/assets/ec03e613-f871-4bcf-9303-2cedb5e7c75f)
-![List Gif](https://github.com/user-attachments/assets/d58193d8-e094-4fe5-ad5e-e6c4c90c9ccb)
+
+![Workspace Gif](https://github.com/user-attachments/assets/bce4a6a1-32a0-496b-a9ad-d1f6065c9b45)
+![ Board Gif](https://github.com/user-attachments/assets/ceb59ba2-4ae8-49f4-bbe7-7dad4b8d910b)
+![List Gif](https://github.com/user-attachments/assets/65589df6-fb12-42ce-9bfd-514fd6183f8b)
+
+
 
 
