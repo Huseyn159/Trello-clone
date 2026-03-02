@@ -80,7 +80,7 @@ Some backend features are not yet fully consumed by the frontend application.
 SCREENSHOTS
 -----------
 
-![Workspace Gif](https://github.com/user-attachments/assets/9e245a6f-9ebe-4482-a56d-6c6be696ce93)
+
 ![Workspace + Board Gif](https://github.com/user-attachments/assets/ec03e613-f871-4bcf-9303-2cedb5e7c75f)
 ![ Board Gif](https://github.com/user-attachments/assets/8e0bca69-bfeb-4c61-a607-3d2c9ab19160)
 ![List Gif](https://github.com/user-attachments/assets/d58193d8-e094-4fe5-ad5e-e6c4c90c9ccb)
