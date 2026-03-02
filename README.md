@@ -81,8 +81,8 @@ SCREENSHOTS
 -----------
 
 
+![Workspace Gif](https://github.com/user-attachments/assets/e92683ea-2e38-4108-a7e9-cde18b33e0de)
 ![Workspace + Board Gif](https://github.com/user-attachments/assets/ec03e613-f871-4bcf-9303-2cedb5e7c75f)
-![ Board Gif](https://github.com/user-attachments/assets/8e0bca69-bfeb-4c61-a607-3d2c9ab19160)
 ![List Gif](https://github.com/user-attachments/assets/d58193d8-e094-4fe5-ad5e-e6c4c90c9ccb)
 
 
